@@ -1,0 +1,57 @@
+[
+{
+	"uri": "https://hajsong.github.io/ATM3111/syllabus/",
+	"title": "수업계획서",
+	"tags": [],
+	"description": "",
+	"content": "수업계획서에 있는 스케줄이 바뀔 수도 있습니다.\n  week  content  lecture note  homework    1   The history of physical oceanography and the ocean in the climate system      2   the mean state of the ocean - temperature and salinity distribution - heat and freshwater transport      3   the mean state of the ocean - wind-driven and thermohaline circulation      4   Observation and data analysis tools      5   Dynamics I - Advection / Transport / Budgets - Equation of motion      6   Dynamics II - Geostrophy      7   Dynamics III - Friction / Ekman layer - Potential vorticity - Sverdrup balance / western boundary current      7   The thermohaline ocean circulation      8   Midterm Exam      9   Global ocean circulation      10   Equatorial circulation and ENSO      11   Pacific / Atlantic / Indian Oceans      12   Southern Ocean / Arctic      13   Waves and tides, Ocean mixing      14   Ocean modeling      15   Review      16   Final exam      "
+},
+{
+	"uri": "https://hajsong.github.io/ATM3111/lectures/",
+	"title": "수업자료",
+	"tags": [],
+	"description": "",
+	"content": " 수업에서 참고하는 자료를 모아두는 곳입니다. "
+},
+{
+	"uri": "https://hajsong.github.io/ATM3111/homework/",
+	"title": "과제",
+	"tags": [],
+	"description": "",
+	"content": " 숙제는 3번 나갈 예정이며, 관련 정보를 여기에서 찾아볼 수 있습니다. "
+},
+{
+	"uri": "https://hajsong.github.io/ATM3111/python/",
+	"title": "Python",
+	"tags": [],
+	"description": "",
+	"content": " Python Python is a programing language that becomes very popular in many areas. The earth sciences field is not an exception. If you want specific reason for the choice of Python in this class, here they are.\n Python has been gaining solid ground in earth sciences community. Python is light, efficient and fast! Python is free!  Python up there.. Python is free and has been distributed in many different ways. One of the most popular and recommended way to obtain it is through Anaconda software distribution, which provides platform-independent package management for Python and other software in self-contained user-specific environments.\nHowever, I want to explore cloud-based python environments like Colaboratory by Google. The main advantage of using online service is that you do not have to spend your time to install Python and configure its setting to be consistent with the one I propose. Also, everyone in the class will be on the same environments so that we are all share how we solve the problem without worrying about whether this will work on other systems.\nI have experienced a clould-based Python environment but not Colaboratory. So I hope that we all get to learn how to efficiently use this platform that, I think, becomes a major trend in computer sciences.\nEnough said. Let\u0026rsquo;s dive into Google Colaboratory!\nHow to set up your acount on Google Colaboratory  Create an account (possibly your Yonsei email account works well). Create a new Jupyter notebook. Save it. Check if your saved file is in your Google Drive.  또 다른 플랫폼은 Microsoft의 azure notebooks 입니다. Google 의 Colaboratory와는 조금 다른 느낌인데, 실제 많이 쓰는 Jupyter notebook 에 조금 더 가까운 interface 를 제공합니다.\n확실한 것은 python의 경험이 절대로 여러분에게 불이익(?)을 주지 않을 것이란 사실입니다!\n"
+},
+{
+	"uri": "https://hajsong.github.io/ATM3111/links/",
+	"title": "Links",
+	"tags": [],
+	"description": "",
+	"content": " You may find these online materials helpful.\nLink to the textbook webpage Webpage about the textbook\nComputing program  Python Google Colaboratory Jupyter Notebook azure notebooks Programming in Meteorology  "
+},
+{
+	"uri": "https://hajsong.github.io/ATM3111/",
+	"title": "ATM3111",
+	"tags": [],
+	"description": "",
+	"content": " 해양물리  수업 개요 해양은 지구의 기후을 이루는 중요한 요소이며, 대기에게 열과 수증기를 공급하는 중요한 역할을 하고 있다. 이 수업에서는 이런 해양의 구조 및 운동에 대하여 살펴보고 해양이 어떻게 기후에 영향을 미치는 지 알아보려고 한다. 또한 해양관련 연구의 최신 동향을 소개하며 계속 발전해 나가는 학문임을 확인하려고 한다.\n담당교수  송하준 연구실 : 과학관 #544 이메일 : hajsong@yonsei.ac.kr 전화 : 02-2123-2579  조교  Namgung Chunil 연구실 : 과학관 #532 이메일 : silvan@yonsei.ac.kr  수업  과학관 #523 수업시간 : M 11:00 am - 12:50 pm, W 11:00 - 11:50 pm TA lecture : W 12:00 pm - 12:50 pm  면담시간 면담시간은 월5, 수5이나 이메일로 시간을 잡아 할 수 있음\n수강대상 학부 3,4학년 학생\n선수과목 대기해양 상호작용과 대기역학 1\n성적평가방법  중간고사 : 30% 기말고사 : 40% 숙제 : 30%  교제 L. D. Talley et al., \u0026ldquo;Descriptive Physical Oceanography: An Introduction\u0026rdquo; (Academic Press, 2011) R. H. Stewart, \u0026ldquo;Introduction to Physical Oceanography\u0026rdquo; (2005, pdf file)\n"
+},
+{
+	"uri": "https://hajsong.github.io/ATM3111/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hajsong.github.io/ATM3111/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

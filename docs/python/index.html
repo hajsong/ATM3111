@@ -1,0 +1,456 @@
+
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.54.0" />
+    <meta name="description" content="ATM3111, Yonsei University">
+<meta name="author" content="Hajoon Song">
+
+    <link rel="icon" href="/ATM3111/images/favicon.png" type="image/png">
+
+    <title>Python :: physical oceanography</title>
+
+    
+    <link href="/ATM3111/css/nucleus.css?1567488014" rel="stylesheet">
+    <link href="/ATM3111/css/fontawesome-all.min.css?1567488014" rel="stylesheet">
+    <link href="/ATM3111/css/hybrid.css?1567488014" rel="stylesheet">
+    <link href="/ATM3111/css/featherlight.min.css?1567488014" rel="stylesheet">
+    <link href="/ATM3111/css/perfect-scrollbar.min.css?1567488014" rel="stylesheet">
+    <link href="/ATM3111/css/auto-complete.css?1567488014" rel="stylesheet">
+    <link href="/ATM3111/css/theme.css?1567488014" rel="stylesheet">
+    <link href="/ATM3111/css/hugo-theme.css?1567488014" rel="stylesheet">
+    
+      <link href="/ATM3111/css/theme-green.css?1567488014" rel="stylesheet">
+    
+
+    <script src="/ATM3111/js/jquery-2.x.min.js?1567488014"></script>
+
+    <style type="text/css">
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/ATM3111/python/">
+    <nav id="sidebar" class="">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <a id="logo" href="https://hajsong.github.io/ATM3111/">
+  <h1 style="color:white;">
+  ATM3111
+  </h1>
+</a>
+
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fas fa-search"></i></label>
+    <input data-search-input id="search-by" type="search" placeholder="Search...">
+    <span data-search-clear=""><i class="fas fa-times"></i></span>
+</div>
+
+<script type="text/javascript" src="/ATM3111/js/lunr.min.js?1567488014"></script>
+<script type="text/javascript" src="/ATM3111/js/auto-complete.js?1567488014"></script>
+<script type="text/javascript">
+    
+        var baseurl = "https:\/\/hajsong.github.io\/ATM3111\/";
+    
+</script>
+<script type="text/javascript" src="/ATM3111/js/search.js?1567488014"></script>
+
+    
+  </div>
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/ATM3111/syllabus/" title="수업계획서" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/ATM3111/syllabus/">
+          수업계획서
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/ATM3111/lectures/" title="수업자료" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/ATM3111/lectures/">
+          수업자료
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/ATM3111/homework/" title="과제" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/ATM3111/homework/">
+          과제
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/ATM3111/python/" title="Python" class="dd-item 
+        parent
+        active
+        
+        ">
+      <a href="/ATM3111/python/">
+          Python
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/ATM3111/links/" title="Links" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/ATM3111/links/">
+          Links
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+         
+    </ul>
+
+    
+    
+
+    
+    <section id="footer">
+      <p>Built with <a href="https://github.com/matcornic/hugo-theme-learn"><i class="fas fa-heart"></i></a> from <a href="http://getgrav.org">Grav</a> and <a href="http://gohugo.io/">Hugo</a></p>
+<p>Maintained by Hajoon Song</p>
+
+    </section>
+  </div>
+</nav>
+
+
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                 
+                 
+                   Python 
+                 
+                  </span>
+                </div>
+                
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#python">Python</a></li>
+<li><a href="#python-up-there">Python up there..</a>
+<ul>
+<li><a href="#how-to-set-up-your-acount-on-google-colaboratory">How to set up your acount on Google Colaboratory</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+</div>
+
+                
+              </div>
+            </div>
+            
+
+        
+        <div id="body-inner">
+          
+            <h1>Python</h1>
+          
+
+        
+
+
+
+
+<h3 id="python">Python</h3>
+
+<p>Python is a programing language that becomes very popular in many areas.
+The earth sciences field is not an exception. If you want specific reason for the choice of Python in this class, here they are.</p>
+
+<ul>
+<li>Python has been gaining solid ground in earth sciences community.</li>
+<li>Python is light, efficient and fast!</li>
+<li>Python is free!</li>
+</ul>
+
+<h3 id="python-up-there">Python up there..</h3>
+
+<p>Python is free and has been distributed in many different ways. One of the most popular and recommended way to obtain it is through Anaconda software distribution, which provides platform-independent package management for Python and other software in self-contained user-specific environments.</p>
+
+<p>However, I want to explore cloud-based python environments like Colaboratory by Google.
+The main advantage of using online service is that you do not have to spend your time to install Python and configure its setting to be consistent with the one I propose.
+Also, everyone in the class will be on the same environments so that we are all share how we solve the problem without worrying about whether this will work on other systems.</p>
+
+<p>I have experienced a clould-based Python environment but not Colaboratory. So I hope that we all get to learn how to efficiently use this platform that, I think, becomes a major trend in computer sciences.</p>
+
+<p>Enough said. Let&rsquo;s dive into <a href="https://colab.research.google.com">Google Colaboratory</a>!</p>
+
+<h4 id="how-to-set-up-your-acount-on-google-colaboratory">How to set up your acount on Google Colaboratory</h4>
+
+<ol>
+<li>Create an account (possibly your Yonsei email account works well).</li>
+<li>Create a new Jupyter notebook.</li>
+<li>Save it.</li>
+<li>Check if your saved file is in your Google Drive.</li>
+</ol>
+
+<p>또 다른 플랫폼은 Microsoft의 <a href="https://notebooks.azure.com/">azure notebooks</a> 입니다.
+Google 의 Colaboratory와는 조금 다른 느낌인데, 실제 많이 쓰는 <a href="https://jupyter.org/">Jupyter notebook</a> 에 조금 더 가까운 interface 를 제공합니다.</p>
+
+<p>확실한 것은 python의 경험이 절대로 여러분에게 불이익(?)을 주지 않을 것이란 사실입니다!</p>
+
+
+<footer class=" footline" >
+	
+</footer>
+
+        
+        </div> 
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+        
+        
+
+
+	 
+	 
+    </div>
+
+    </section>
+    
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/ATM3111/js/clipboard.min.js?1567488014"></script>
+    <script src="/ATM3111/js/perfect-scrollbar.min.js?1567488014"></script>
+    <script src="/ATM3111/js/perfect-scrollbar.jquery.min.js?1567488014"></script>
+    <script src="/ATM3111/js/jquery.sticky.js?1567488014"></script>
+    <script src="/ATM3111/js/featherlight.min.js?1567488014"></script>
+    <script src="/ATM3111/js/html5shiv-printshiv.min.js?1567488014"></script>
+    <script src="/ATM3111/js/highlight.pack.js?1567488014"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/ATM3111/js/modernizr.custom.71422.js?1567488014"></script>
+    <script src="/ATM3111/js/learn.js?1567488014"></script>
+    <script src="/ATM3111/js/hugo-learn.js?1567488014"></script>
+
+    <link href="/ATM3111/mermaid/mermaid.css?1567488014" type="text/css" rel="stylesheet" />
+    <script src="/ATM3111/mermaid/mermaid.js?1567488014"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    
+
+  </body>
+</html>
