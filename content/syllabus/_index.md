@@ -24,7 +24,7 @@ chapter : false
     </tr>
     <tr>
         <td style="text-align:center"> 2 </td>
-        <td> the mean state of the ocean <br>
+        <td> The physical properties of seawater <br>
             - temperature and salinity distribution <br>
             - heat and freshwater transport  </td>
         <td style="text-align:center"></td>

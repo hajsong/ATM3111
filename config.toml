@@ -8,7 +8,7 @@ themesdir = "themes"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= false
 
-googleAnalytics= ""
+googleAnalytics= "UA-113704256-5"
 publishDir = "docs"
 
 [params]
