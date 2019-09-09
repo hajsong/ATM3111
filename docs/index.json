@@ -14,6 +14,13 @@
 	"content": "수업계획서에 있는 스케줄이 바뀔 수도 있습니다.\n  week  content  lecture note  homework    1   The history of physical oceanography and the ocean in the climate system      2   The physical properties of seawater - temperature and salinity distribution - heat and freshwater transport      3   the mean state of the ocean - wind-driven and thermohaline circulation      4   Observation and data analysis tools      5   Dynamics I - Advection / Transport / Budgets - Equation of motion      6   Dynamics II - Geostrophy      7   Dynamics III - Friction / Ekman layer - Potential vorticity - Sverdrup balance / western boundary current      7   The thermohaline ocean circulation      8   Midterm Exam      9   Global ocean circulation      10   Equatorial circulation and ENSO      11   Pacific / Atlantic / Indian Oceans      12   Southern Ocean / Arctic      13   Waves and tides, Ocean mixing      14   Ocean modeling      15   Review      16   Final exam      "
 },
 {
+	"uri": "https://hajsong.github.io/ATM3111/lectures/week_1/",
+	"title": "Week 1",
+	"tags": [],
+	"description": "",
+	"content": " 주제 해수의 물리적 특성\n강의 슬라이드  물리적 특성  Reading  Descriptive Physical Oceanography, Chapter 3  "
+},
+{
 	"uri": "https://hajsong.github.io/ATM3111/lectures/",
 	"title": "수업자료",
 	"tags": [],
