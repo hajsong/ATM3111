@@ -10,7 +10,8 @@ weight = 2
 
 #### 강의 슬라이드
 
-+ [물리적 특성](https://yscec.yonsei.ac.kr/mod/lcms/download.php?id=1482099&fileid=484526)
++ [물리적 특성 I](https://yscec.yonsei.ac.kr/mod/lcms/download.php?id=1482099&fileid=484526)
++ [물리적 특성 II](https://yscec.yonsei.ac.kr/mod/lcms/download.php?id=1484676&fileid=484805)
 
 #### Reading
 + Descriptive Physical Oceanography, Chapter 3
