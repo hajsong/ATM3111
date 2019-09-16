@@ -10,7 +10,7 @@ weight = 3
 
 #### 강의 슬라이드
 
-+ [대기와 해양 사이의 운동량 및 열교환](https://yscec.yonsei.ac.kr/mod/lcms/download.php?id=1486558&fileid=485087)
++ [대기와 해양 사이의 운동량 및 열교환](https://yscec.yonsei.ac.kr/mod/lcms/download.php?id=1486780&fileid=485110)
 
 #### Reading
 + Descriptive Physical Oceanography, Chapter 5
