@@ -26,14 +26,15 @@ chapter : false
         <td style="text-align:center"> 2 </td>
         <td> The physical properties of seawater <br>
             - temperature and salinity distribution <br>
-            - heat and freshwater transport  </td>
+            - sound and light  </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
         <td style="text-align:center"> 3 </td>
-        <td> the mean state of the ocean <br>
-            - wind-driven and thermohaline circulation  </td>
+        <td> Influence of the atmosphere <br>
+            - wind forcing / buoyancy forcing <br>
+            Dynamics I   </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
