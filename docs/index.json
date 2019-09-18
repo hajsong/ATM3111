@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://hajsong.github.io/ATM3111/homework/hw1/",
+	"title": "Homework 1",
+	"tags": [],
+	"description": "",
+	"content": " 주제 해양의 밀도를 아는 것은 정말 중요하다. 밀도는 온도, 염분도, 압력의 비선형 함수로 되어 있는데, 이번 숙제를 통해서 밀도의 분포와, 비선형 함수에 대해서 좀 더 알아볼 수 있을 것으로 기대한다.\n설명 Azure Notebooks 위의 링크에서 \u0026ldquo;HW_1.ipynb\u0026rdquo;를 실행하면(run) 단계적인 설명이 있습니다. 만약 자신의 컴퓨터에서 하려면, 원하는 폴더에 모두 다운받아 실행하면 되고, 온라인에서 직접 하고 싶으면 microsoft 계정으로 접속한 후 \u0026ldquo;clone\u0026rdquo;을 클릭하여, 자신의 계정에 복사하고 실행하면 됩니다.\n잘 안되면, 저한테나, TA에게 문의 바랍니다.\n9\u0026frasl;30 까지 제출바랍니다.\n"
+},
+{
 	"uri": "https://hajsong.github.io/ATM3111/lectures/week_0/",
 	"title": "Week 1",
 	"tags": [],
