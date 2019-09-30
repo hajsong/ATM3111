@@ -40,12 +40,6 @@ chapter : false
     </tr>
     <tr>
         <td style="text-align:center"> 4 </td>
-        <td> Observation and data analysis tools </td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-    </tr>
-    <tr>
-        <td style="text-align:center"> 5 </td>
         <td> Dynamics I <br>
             - Advection / Transport / Budgets <br>
             - Equation of motion  </td>
@@ -53,18 +47,24 @@ chapter : false
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td style="text-align:center"> 6 </td>
+        <td style="text-align:center"> 5 </td>
         <td> Dynamics II <br>
             - Geostrophy   </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td style="text-align:center"> 7 </td>
+        <td style="text-align:center"> 6 </td>
         <td> Dynamics III <br>
             - Friction / Ekman layer <br>
             - Potential vorticity <br>
             - Sverdrup balance / western boundary current  </td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td style="text-align:center"> 7 </td>
+        <td> Distribution of properties </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
@@ -106,7 +106,7 @@ chapter : false
      </tr>
      <tr>
          <td style="text-align:center"> 13 </td>
-         <td> Waves and tides, Ocean mixing </td>
+         <td> Observation and data analysis tools </td>
          <td style="text-align:center"></td>
          <td style="text-align:center"></td>
      </tr>
