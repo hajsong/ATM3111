@@ -10,8 +10,8 @@ weight = 5
 
 #### 강의 슬라이드
 
-+ [Ekman theory](https://yscec.yonsei.ac.kr/mod/lcms/download.php?id=1496452&fileid=486343)
-+ [Geostrophy](https://yscec.yonsei.ac.kr/mod/lcms/download.php?id=1496452&fileid=486342)
++ [Ekman theory](https://yscec.yonsei.ac.kr/mod/lcms/download.php?id=1498197&fileid=486582)
++ [Geostrophy](https://yscec.yonsei.ac.kr/mod/lcms/download.php?id=1498197&fileid=486581)
 
 #### Reading
 + Descriptive Physical Oceanography, Chapter 7 와 [Supplementary chapter 7](https://booksite.elsevier.com/DPO/chapter7.php)
