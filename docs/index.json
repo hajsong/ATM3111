@@ -70,6 +70,13 @@
 	"content": " Python Python is a programing language that becomes very popular in many areas. The earth sciences field is not an exception. If you want specific reason for the choice of Python in this class, here they are.\n Python has been gaining solid ground in earth sciences community. Python is light, efficient and fast! Python is free!  Python up there.. Python is free and has been distributed in many different ways. One of the most popular and recommended way to obtain it is through Anaconda software distribution, which provides platform-independent package management for Python and other software in self-contained user-specific environments.\nHowever, I want to explore cloud-based python environments like Colaboratory by Google. The main advantage of using online service is that you do not have to spend your time to install Python and configure its setting to be consistent with the one I propose. Also, everyone in the class will be on the same environments so that we are all share how we solve the problem without worrying about whether this will work on other systems.\nI have experienced a clould-based Python environment but not Colaboratory. So I hope that we all get to learn how to efficiently use this platform that, I think, becomes a major trend in computer sciences.\nEnough said. Let\u0026rsquo;s dive into Google Colaboratory!\nHow to set up your acount on Google Colaboratory  Create an account (possibly your Yonsei email account works well). Create a new Jupyter notebook. Save it. Check if your saved file is in your Google Drive.  또 다른 플랫폼은 Microsoft의 azure notebooks 입니다. Google 의 Colaboratory와는 조금 다른 느낌인데, 실제 많이 쓰는 Jupyter notebook 에 조금 더 가까운 interface 를 제공합니다.\n확실한 것은 python의 경험이 절대로 여러분에게 불이익(?)을 주지 않을 것이란 사실입니다!\n"
 },
 {
+	"uri": "https://hajsong.github.io/ATM3111/lectures/week_7/",
+	"title": "Week 7",
+	"tags": [],
+	"description": "",
+	"content": " 주제 Wind-driven circulation\n강의 슬라이드  wind-driven circulation  Reading  Descriptive Physical Oceanography, Chapter 7 와 Supplementary chapter 7 Introduction to Physical Oceanography, Chapter 11  "
+},
+{
 	"uri": "https://hajsong.github.io/ATM3111/lectures/week_6/",
 	"title": "Week 6",
 	"tags": [],
