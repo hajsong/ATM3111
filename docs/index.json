@@ -21,6 +21,13 @@
 	"content": "수업계획서에 있는 스케줄이 바뀔 수도 있습니다.\n  week  content  lecture note  homework    1   The history of physical oceanography and the ocean in the climate system      2   The physical properties of seawater - temperature and salinity distribution - sound and light      3   Influence of the atmosphere - wind forcing / buoyancy forcing Dynamics I      4   Dynamics I - Advection / Transport / Budgets - Equation of motion      5   Dynamics II - Geostrophy      6   Dynamics III - Friction / Ekman layer - Potential vorticity - Sverdrup balance / western boundary current      7   The wind-driven circulation      7   The thermohaline ocean circulation      8   Midterm Exam      9   The thermohaline ocean circulation      10   Equatorial circulation and ENSO      11   Pacific / Atlantic / Indian Oceans      12   Southern Ocean / Arctic      13   Observation and data analysis tools      14   Ocean modeling      15   Review      16   Final exam      "
 },
 {
+	"uri": "https://hajsong.github.io/ATM3111/homework/hw2/",
+	"title": "Homework 2",
+	"tags": [],
+	"description": "",
+	"content": " 주제 Geostrophy를 이용하여 지균류 계산\n설명 북대서양을 가로지르며 측정한 수온과 염분도를 이용하여 지균류를 계산합니다. 1. 먼저 연직 수온과 염분도, 그리고 밀도의 구조를 그립니다. 2. 남북방향의 지륜류를 위도 35도에서 계산합니다. 3. 이를 그림으로 그립니다. 4. 동서 방향을 가로지르는 지균류도 계산하고 그립니다.\n(자세한 내용은 곧 올라올 예정)\n11\u0026frasl;6 까지 제출바랍니다.\n"
+},
+{
 	"uri": "https://hajsong.github.io/ATM3111/lectures/week_1/",
 	"title": "Week 2",
 	"tags": [],
