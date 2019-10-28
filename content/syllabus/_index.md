@@ -64,7 +64,7 @@ chapter : false
     </tr>
     <tr>
         <td style="text-align:center"> 7 </td>
-        <td> Distribution of properties </td>
+        <td> The wind-driven circulation </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
@@ -82,7 +82,7 @@ chapter : false
     </tr>
     <tr>
          <td style="text-align:center"> 9 </td>
-         <td> Global ocean circulation </td>
+         <td> The thermohaline ocean circulation </td>
          <td style="text-align:center"></td>
          <td style="text-align:center"></td>
      </tr>
