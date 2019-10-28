@@ -39,7 +39,7 @@
       
       <guid>https://hajsong.github.io/ATM3111/homework/hw2/</guid>
       <description>주제 Geostrophy를 이용하여 지균류 계산
-설명 북대서양을 가로지르며 측정한 수온과 염분도를 이용하여 지균류를 계산합니다. 자세한 사항은 아래 링크를 참고하세요.
+설명 북대서양을 가로지르며 측정한 수온과 염분도를 이용하여 지균류를 계산합니다. 자세한 사항은 아래 링크에서 &amp;ldquo;HW_2.ipynb&amp;rdquo;를 참고하세요.
 Azure Notebook
 11&amp;frasl;6 까지 제출바랍니다.</description>
     </item>
