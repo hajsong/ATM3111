@@ -1,38 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>과제 on physical oceanography</title>
+    <title>Homework on physical oceanography</title>
     <link>https://hajsong.github.io/ATM3111/homework/</link>
-    <description>Recent content in 과제 on physical oceanography</description>
+    <description>Recent content in Homework on physical oceanography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 02 Mar 2019 00:01:06 +0900</lastBuildDate>
     
 	<atom:link href="https://hajsong.github.io/ATM3111/homework/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Homework 1</title>
-      <link>https://hajsong.github.io/ATM3111/homework/hw1/</link>
-      <pubDate>Wed, 18 Sep 2019 14:46:54 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/homework/hw1/</guid>
-      <description>주제 해양의 밀도를 아는 것은 정말 중요하다. 밀도는 온도, 염분도, 압력의 비선형 함수로 되어 있는데, 이번 숙제를 통해서 밀도의 분포와, 비선형 함수에 대해서 좀 더 알아볼 수 있을 것으로 기대한다.
-설명 Azure Notebooks 위의 링크에서 &amp;ldquo;HW_1.ipynb&amp;rdquo;를 실행하면(run) 단계적인 설명이 있습니다. 만약 자신의 컴퓨터에서 하려면, 원하는 폴더에 모두 다운받아 실행하면 되고, 온라인에서 직접 하고 싶으면 microsoft 계정으로 접속한 후 &amp;ldquo;clone&amp;rdquo;을 클릭하여, 자신의 계정에 복사하고 실행하면 됩니다.
-잘 안되면, 저한테나, TA에게 문의 바랍니다.</description>
-    </item>
-    
-    <item>
-      <title>Homework 2</title>
-      <link>https://hajsong.github.io/ATM3111/homework/hw2/</link>
-      <pubDate>Mon, 28 Oct 2019 10:49:52 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/homework/hw2/</guid>
-      <description>주제 Geostrophy를 이용하여 지균류 계산
-설명 북대서양을 가로지르며 측정한 수온과 염분도를 이용하여 지균류를 계산합니다. 자세한 사항은 아래 링크에서 &amp;ldquo;HW_2.ipynb&amp;rdquo;를 참고하세요.
-Azure Notebook
-11&amp;frasl;6 까지 제출바랍니다.</description>
-    </item>
     
   </channel>
 </rss>

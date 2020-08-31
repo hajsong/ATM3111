@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ATM3111 on physical oceanography</title>
@@ -6,113 +6,10 @@
     <description>Recent content in ATM3111 on physical oceanography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Sep 2019 14:46:54 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 10:01:48 +0900</lastBuildDate>
     
 	<atom:link href="https://hajsong.github.io/ATM3111/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Homework 1</title>
-      <link>https://hajsong.github.io/ATM3111/homework/hw1/</link>
-      <pubDate>Wed, 18 Sep 2019 14:46:54 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/homework/hw1/</guid>
-      <description>주제 해양의 밀도를 아는 것은 정말 중요하다. 밀도는 온도, 염분도, 압력의 비선형 함수로 되어 있는데, 이번 숙제를 통해서 밀도의 분포와, 비선형 함수에 대해서 좀 더 알아볼 수 있을 것으로 기대한다.
-설명 Azure Notebooks 위의 링크에서 &amp;ldquo;HW_1.ipynb&amp;rdquo;를 실행하면(run) 단계적인 설명이 있습니다. 만약 자신의 컴퓨터에서 하려면, 원하는 폴더에 모두 다운받아 실행하면 되고, 온라인에서 직접 하고 싶으면 microsoft 계정으로 접속한 후 &amp;ldquo;clone&amp;rdquo;을 클릭하여, 자신의 계정에 복사하고 실행하면 됩니다.
-잘 안되면, 저한테나, TA에게 문의 바랍니다.</description>
-    </item>
-    
-    <item>
-      <title>Week 1</title>
-      <link>https://hajsong.github.io/ATM3111/lectures/week_0/</link>
-      <pubDate>Tue, 03 Sep 2019 14:41:50 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/lectures/week_0/</guid>
-      <description> 주제 해양물리의 역사와 기후시스템 속의 해양
-강의 슬라이드  해양물리의 역사 해양물리 개요  Reading  Descriptive Physical Oceanography, Supplementary chapter 1  </description>
-    </item>
-    
-    <item>
-      <title>Homework 2</title>
-      <link>https://hajsong.github.io/ATM3111/homework/hw2/</link>
-      <pubDate>Mon, 28 Oct 2019 10:49:52 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/homework/hw2/</guid>
-      <description>주제 Geostrophy를 이용하여 지균류 계산
-설명 북대서양을 가로지르며 측정한 수온과 염분도를 이용하여 지균류를 계산합니다. 자세한 사항은 아래 링크에서 &amp;ldquo;HW_2.ipynb&amp;rdquo;를 참고하세요.
-Azure Notebook
-11&amp;frasl;6 까지 제출바랍니다.</description>
-    </item>
-    
-    <item>
-      <title>Week 2</title>
-      <link>https://hajsong.github.io/ATM3111/lectures/week_1/</link>
-      <pubDate>Mon, 09 Sep 2019 10:57:27 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/lectures/week_1/</guid>
-      <description> 주제 해수의 물리적 특성
-강의 슬라이드  물리적 특성 I 물리적 특성 II  Reading  Descriptive Physical Oceanography, Chapter 3  </description>
-    </item>
-    
-    <item>
-      <title>Week 3</title>
-      <link>https://hajsong.github.io/ATM3111/lectures/week_2/</link>
-      <pubDate>Mon, 16 Sep 2019 10:27:50 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/lectures/week_2/</guid>
-      <description> 주제 대기와 해양 사이의 운동량 및 열 교환
-강의 슬라이드  대기와 해양 사이의 운동량 및 열교환 바다에 의한 수송  Reading  Descriptive Physical Oceanography, Chapter 5 Introduction to Physical Oceanography, Chapter 4  </description>
-    </item>
-    
-    <item>
-      <title>Week 4</title>
-      <link>https://hajsong.github.io/ATM3111/lectures/week_4/</link>
-      <pubDate>Mon, 23 Sep 2019 10:24:47 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/lectures/week_4/</guid>
-      <description>주제 Governing equation of the ocean
-강의 슬라이드  판서 instability  Reading  Descriptive Physical Oceanography, Chapter 7 와 Supplementary chapter 7 Introduction to Physical Oceanography, Chapter 8  (수업시간에 보여주려고 했던 molecular/eddy viscosity/diffusivity 는 Supplementary chapter 7의 표 7.1에 있습니다.)</description>
-    </item>
-    
-    <item>
-      <title>Week 5</title>
-      <link>https://hajsong.github.io/ATM3111/lectures/week_5/</link>
-      <pubDate>Mon, 30 Sep 2019 10:01:30 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/lectures/week_5/</guid>
-      <description> 주제 바람에 의한 해류 및 Geostrophy
-강의 슬라이드  Ekman theory Geostrophy  Reading  Descriptive Physical Oceanography, Chapter 7 와 Supplementary chapter 7 Introduction to Physical Oceanography, Chapter 9  </description>
-    </item>
-    
-    <item>
-      <title>Week 7</title>
-      <link>https://hajsong.github.io/ATM3111/lectures/week_7/</link>
-      <pubDate>Mon, 14 Oct 2019 10:41:04 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/lectures/week_7/</guid>
-      <description> 주제 Wind-driven circulation
-강의 슬라이드  wind-driven circulation  Reading  Descriptive Physical Oceanography, Chapter 7 와 Supplementary chapter 7 Introduction to Physical Oceanography, Chapter 11  </description>
-    </item>
-    
-    <item>
-      <title>Week 6</title>
-      <link>https://hajsong.github.io/ATM3111/lectures/week_6/</link>
-      <pubDate>Mon, 07 Oct 2019 10:46:50 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/lectures/week_6/</guid>
-      <description> 주제 Vorticity and Rossby waves
-강의 슬라이드  Vorticyt and Rossby waves  Reading  Descriptive Physical Oceanography, Chapter 7 와 Supplementary chapter 7 Introduction to Physical Oceanography, Chapter 12  </description>
-    </item>
-    
-    <item>
-      <title>Week 9</title>
-      <link>https://hajsong.github.io/ATM3111/lectures/week_9/</link>
-      <pubDate>Mon, 28 Oct 2019 10:19:33 +0900</pubDate>
-      
-      <guid>https://hajsong.github.io/ATM3111/lectures/week_9/</guid>
-      <description> 주제 Thermohaline circulation
-강의 슬라이드  Thermohaline circulation  Reading  Descriptive Physical Oceanography, Chapter 7 와 Supplementary chapter 7 Introduction to Physical Oceanography, Chapter 13  </description>
-    </item>
     
   </channel>
 </rss>
