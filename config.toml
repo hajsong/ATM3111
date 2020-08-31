@@ -10,7 +10,9 @@ defaultContentLanguageInSubdir= false
 
 googleAnalytics= "UA-113704256-5"
 publishDir = "docs"
-
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+  
 [params]
   # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
   # Useful to give opportunity to people to create merge request for your doc.

@@ -1,8 +1,8 @@
 +++
-title = "과제"
+title = "Homework"
 date = 2019-03-02T00:01:06+09:00
-weight = 4
+weight = 3
 chapter = true
 +++
 
-#### 숙제는 3번 나갈 예정이며, 관련 정보를 여기에서 찾아볼 수 있습니다.
+#### Please check YSCEC for the homework.

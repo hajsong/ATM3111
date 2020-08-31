@@ -31,7 +31,5 @@ Enough said. Let's dive into [Google Colaboratory](https://colab.research.google
 3. Save it.
 4. Check if your saved file is in your Google Drive.
 
-또 다른 플랫폼은 Microsoft의 [azure notebooks](https://notebooks.azure.com/) 입니다.
-Google 의 Colaboratory와는 조금 다른 느낌인데, 실제 많이 쓰는 [Jupyter notebook](https://jupyter.org/) 에 조금 더 가까운 interface 를 제공합니다.
-
-확실한 것은 python의 경험이 절대로 여러분에게 불이익(?)을 주지 않을 것이란 사실입니다!
+*You may want to check out [azure notebooks](https://notebooks.azure.com/) by Microsoft.*  
+*It has a different look compared to Colaboratory, but in fact it looks closer to [Jupyter notebook](https://jupyter.org/), a popular interface in the field.*

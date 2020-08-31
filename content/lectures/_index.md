@@ -1,8 +1,8 @@
 +++
-title = "수업자료"
+title = "Lecture notes"
 date = 2019-03-01T23:56:15+09:00
 weight = 2
 chapter = true
 +++
 
-#### 수업에서 참고하는 자료를 모아두는 곳입니다.
+#### Please check the YSCEC page.

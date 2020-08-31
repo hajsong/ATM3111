@@ -1,12 +1,12 @@
 ---
-title : "수업계획서"
+title : "Syllabus"
 date : 2019-03-01T13:54:27+09:00
 weight : 1
 chapter : false
 ---
 
 {{% notice note %}}
-수업계획서에 있는 스케줄이 바뀔 수도 있습니다.
+This is a tentative schedule. It may be changed during the course of the semester.
 {{% /notice %}}
 
 <table style="width:95%; max-width:1000px; margin-left: auto; margin-right: auto;">
@@ -18,28 +18,30 @@ chapter : false
     </tr>
     <tr>
         <td style="text-align:center"> 1 </td>
-        <td> The history of physical oceanography and the ocean in the climate system </td>
+        <td> The history of physical oceanography </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
         <td style="text-align:center"> 2 </td>
-        <td> The physical properties of seawater <br>
-            - temperature and salinity distribution <br>
-            - sound and light  </td>
+        <td> Observation and data analysis  </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
         <td style="text-align:center"> 3 </td>
-        <td> Influence of the atmosphere <br>
-            - wind forcing / buoyancy forcing <br>
-            Dynamics I   </td>
+        <td> Mean states of the ocean : wind-driven circulation  </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
         <td style="text-align:center"> 4 </td>
+        <td> Mean states of the ocean : thermohaline circulation  </td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td style="text-align:center"> 5 </td>
         <td> Dynamics I <br>
             - Advection / Transport / Budgets <br>
             - Equation of motion  </td>
@@ -47,14 +49,14 @@ chapter : false
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td style="text-align:center"> 5 </td>
+        <td style="text-align:center"> 6 </td>
         <td> Dynamics II <br>
             - Geostrophy   </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td style="text-align:center"> 6 </td>
+        <td style="text-align:center"> 7 </td>
         <td> Dynamics III <br>
             - Friction / Ekman layer <br>
             - Potential vorticity <br>
@@ -63,35 +65,23 @@ chapter : false
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td style="text-align:center"> 7 </td>
-        <td> The wind-driven circulation </td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-    </tr>
-    <!--tr>
-        <td style="text-align:center"> 7 </td>
-        <td> The thermohaline ocean circulation </td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-    </tr-->
-    <tr>
         <td style="text-align:center"> 8 </td>
-        <td> Midterm Exam   </td>
+        <td> Midterm week </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
          <td style="text-align:center"> 9 </td>
-         <td> The thermohaline ocean circulation </td>
+         <td> Global ocean circulation </td>
          <td style="text-align:center"></td>
          <td style="text-align:center"></td>
      </tr>
      <tr>
-         <td style="text-align:center"> 10 </td>
-         <td> Equatorial circulation and ENSO </td>
-         <td style="text-align:center"></td>
-         <td style="text-align:center"></td>
-     </tr>
+          <td style="text-align:center"> 10 </td>
+          <td> Equatorial circulation and ENSO </td>
+          <td style="text-align:center"></td>
+          <td style="text-align:center"></td>
+      </tr>
      <tr>
          <td style="text-align:center"> 11 </td>
          <td> Pacific / Atlantic / Indian Oceans </td>
@@ -100,13 +90,13 @@ chapter : false
      </tr>
      <tr>
          <td style="text-align:center"> 12 </td>
-         <td> Southern Ocean / Arctic </td>
+         <td> Arctic Ocean and Southern Ocean </td>
          <td style="text-align:center"></td>
          <td style="text-align:center"></td>
      </tr>
      <tr>
          <td style="text-align:center"> 13 </td>
-         <td> Observation and data analysis tools </td>
+         <td> Waves, Tides and Mixing </td>
          <td style="text-align:center"></td>
          <td style="text-align:center"></td>
      </tr>
@@ -124,7 +114,7 @@ chapter : false
     </tr>
     <tr>
         <td style="text-align:center"> 16 </td>
-        <td> Final exam </td>
+        <td> Final week </td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
