@@ -5,4 +5,4 @@ weight = 3
 chapter = true
 +++
 
-#### Please check YSCEC for the homework.
+#### Please check Learnus for the homework.

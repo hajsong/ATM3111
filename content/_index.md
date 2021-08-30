@@ -20,17 +20,17 @@ This course explores the structure of the ocean and the driving forces for the o
 * telephone : 02-2123-2579
 
 #### Teaching Assistant
-+ [Kyungmin Kwak](http://airsea.yonsei.ac.kr/group/kyungminkwak/#anchor)
++ [Yujin Kim](https://airsea.yonsei.ac.kr/group/yujinkim/#anchor)
 + Office : Science Hall #532
-+ email : kmindu14@yonsei.ac.kr
++ email : ijoa22@yonsei.ac.kr
 
 #### Lecture hour
-+ place : Science Hall #523 (if meeing offline) / Zoom
-+ lecture hour : Tue 04:00 pm - 05:50 pm, Th 02:00 - 02:50 pm
-+ TA lecture : Th 03:00 pm - 03:50 pm
++ place : Science Hall #523 (if meeting offline) / Zoom
++ lecture hour : Tue 10:00 am - 10:50 am, Th 10:00 - 11:50 am
++ TA lecture : Tue 11:00 am - 11:50 am
 
 #### Office hour
-Wednesday 5 pm (via Zoom)
+Wednesday 5 pm if necessary (via Zoom)
 
 #### Prerequisite
 "Atmospheric dynamics I" and "Atmospheric and Oceanic circulation" are recommended but not required.
@@ -39,7 +39,7 @@ Wednesday 5 pm (via Zoom)
 + Midterm : 30%
 + Team project : 30%
 + Homework : 30%
-+ Attendance and Participation : 20%
++ Attendance and Participation : 10%
 
 #### Textbook
 + L. D. Talley et al., "[Descriptive Physical Oceanography: An Introduction](https://booksite.elsevier.com/DPO/)" (Academic Press, 2011)

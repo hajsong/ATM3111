@@ -5,4 +5,4 @@ weight = 2
 chapter = true
 +++
 
-#### Please check the YSCEC page.
+#### Please check the Learnus page.
